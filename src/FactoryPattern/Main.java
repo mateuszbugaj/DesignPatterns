@@ -4,7 +4,7 @@ package FactoryPattern;
 Factory Pattern
 
 Factory objects is responsible to recognize based on parameters in method what subclass should be returned.
-
+https://www.javatpoint.com/factory-method-design-pattern
  */
 
 
