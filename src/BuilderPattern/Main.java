@@ -1,3 +1,5 @@
+package BuilderPattern;
+
 
 /*
 Builder Pattern
@@ -17,10 +19,7 @@ http://www.newthinktank.com/2012/09/builder-design-pattern-tutorial/
  */
 
 
-
-
-
-public class BuilderPattern {
+public class Main {
     public static void main(String[] args) {
 
         DeviceBuilder deviceBuilder = new DeviceBuilderModelA();
