@@ -4,6 +4,8 @@ package AdapterPattern;
 Adapter Pattern
 
 Gives the ability to use object with different interface than it's original implemented interface.
+
+http://www.newthinktank.com/2012/09/adapter-design-pattern-tutorial/
  */
 
 
